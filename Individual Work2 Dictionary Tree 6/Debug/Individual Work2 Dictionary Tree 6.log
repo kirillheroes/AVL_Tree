@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Individual Work2 Dictionary Tree 6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\KirillHeroes\Desktop\Individual Work2 Dictionary Tree 6\Individual Work2 Dictionary Tree 6\Source.cpp(217,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Individual Work2 Dictionary Tree 6.vcxproj -> C:\Users\KirillHeroes\Desktop\Individual Work2 Dictionary Tree 6\Debug\Individual Work2 Dictionary Tree.exe
